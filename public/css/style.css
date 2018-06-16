@@ -1,0 +1,32 @@
+
+#scrapeBtn{
+  margin-top: 15px;
+};
+
+.parallax-container {
+  margin: 0;
+  width: 100%;
+
+}
+
+#parallaxImg {
+  height: 100%;
+  width: 100%;
+}
+
+.title {
+  margin: 150px auto;
+  max-width: 700px;
+  border-radius: 10px; 
+  background: rgba(245, 245, 245, 0.726); 
+  /* font-family: 'IM Fell DW Pica SC', serif; */
+  padding: 20px;
+}
+
+#titleText, #subText {
+  margin: 0;
+}
+
+#alertBar{
+  padding: 10px auto;
+}
